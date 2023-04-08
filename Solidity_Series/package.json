@@ -1,0 +1,10 @@
+{
+  "name": "HelloWorld",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Talha <talhajavedd@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.12.6"
+  }
+}
